@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297805957359",
+    "project_id": "lifepulse-e061b",
+    "storage_bucket": "lifepulse-e061b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297805957359:android:4534413543d2151e4cf31a",
+        "android_client_info": {
+          "package_name": "com.lifepulse_ph44878"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2E-G7D6490z_hpdekKSdVOfLo1NWMeYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
